@@ -31,7 +31,7 @@ nav img{
   position: relative;
 }
 .nav-links ul li a{
-  color:#00008B;
+  color:#fff;
   text-decoration: none;
   font-size: 20px;
 }
@@ -260,4 +260,169 @@ display: flex;
   .cta h1{
     font-size:20px;
   }
+}
+
+.footer{
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+}
+.footer h4{
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+.icons .fa-brands{
+  color: black;
+  margin: 0 13px;
+  cursor: pointer;
+  padding:18px 0;
+}
+.fa-heart{
+  color: black;
+}
+
+.sub-header{
+  height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("https://st2.depositphotos.com/1017986/11637/i/450/depositphotos_116379142-stock-photo-silhouettes-of-students-throwing-mortarboards.jpg");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color:#fff;
+}
+.sub-header h1{
+  margin-top: 100px;
+}
+.about-us{
+  width:80%;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.about-col{
+  flex-basis: 48%;
+  padding:30px 2px;
+}
+.about-col img{
+  width: 20%;
+}
+.about-col h1{
+  padding-top: 0;
+}
+.about-col p{
+  padding:15px 0 25px;
+}
+.red-btn{
+  border: 1px solid #f44336;
+  background: transparent;
+  color:#f44336;
+}
+.red-btn:hover{
+  color: #fff;
+}
+@media(max-width: 700px){
+  .about-us{
+    font-size:10px;
+  }
+}
+
+.blog-content{
+  width: 80%;
+  margin: auto;
+  padding: 60px 0;
+}
+.blog-left{
+  flex-basis: 65%;
+}
+.blog-center img{
+  width:100%;
+}
+.blog-center h2{
+  color: #222;
+  font-weight: 600;
+  margin: 30px 0;
+}
+.blog-center{
+  color:#999;
+  padding: 0;
+}
+.event{
+  width: 80%;
+  margin: auto;
+  padding: 60px 0;
+  font-weight: lighter;
+}
+.event-center{
+  flex-basis: 65%;
+}
+.event-center img{
+  width:50%;
+  align-content: center;
+}
+.event-center h3{
+  color: #222;
+  font-weight: lighter;
+  margin: 30px 0;
+  text-align: center;
+}
+.event-center p{
+  color:#999;
+  padding: 0;
+  text-align: center;
+  margin: auto;
+}
+.comment-box{
+  border: 1px solid black;
+  margin: 50px 0;
+  padding: 10px 20px;
+}
+.comment-box h3{
+  text-align: left;
+}
+.comment-form input, .comment-form textarea{
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background: #f0f0f0;
+}
+.comment-form button{
+  margin: 10px 0;
+}
+.location{
+  width:80%;
+  margin: auto;
+  padding: 80px 0;
+}
+.location iframe{
+width: 100%;
+}
+.contact-us{
+  width: 80%;
+  margin: auto;
+}
+.contact-col{
+  flex-basis: 48%;
+  margin-bottom: 30px;
+}
+.contact-col div{
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.contact-col div .fa{
+  font-size: 28px;
+  color: black;
+  margin: 10px;
+  margin-right: 30px;
+}
+.contact-col div p{
+  padding: 0;
+}
+.contact-col div h5{
+  font-size: 20px;
+  margin-bottom:5px;
 }
