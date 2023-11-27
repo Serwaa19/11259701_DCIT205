@@ -60,7 +60,7 @@ The journey from selecting a source project to deploying my customized website w
   </p>
 
   <h2>Sreenshots</h2>
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (115).png>)
+![Screenshot](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (115).png>)
 ![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (116).png>)
 ![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (117).png>)
 ![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (118).png>)
