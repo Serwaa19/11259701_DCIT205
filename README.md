@@ -59,8 +59,8 @@ The journey from selecting a source project to deploying my customized website w
     <strong>11259701</strong> 
   </p>
 
-  <h2>Sreenshots</h2>
-<img src="Screenshot(115).png"> 
+  <h2>Screenshots</h2>
+![HomePage](https://github.com/Serwaa19/11259701_DCIT205/blob/main/Screenshot%20(115).png)
 
 
   <h2>What I've Learnt</h2>
