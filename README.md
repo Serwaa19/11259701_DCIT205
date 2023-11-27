@@ -60,16 +60,7 @@ The journey from selecting a source project to deploying my customized website w
   </p>
 
   <h2>Sreenshots</h2>
-![Screenshot](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (115).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (116).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (117).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (118).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (119).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (120).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (121).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (128).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (129).png>)
-![](<../../Users/me/Pictures/Screenshots/Screenshots/Screenshot (130).png>)
+<img src="Screenshot(115).png"> 
 
 
   <h2>What I've Learnt</h2>
