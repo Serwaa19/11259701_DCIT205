@@ -63,18 +63,20 @@ The journey from selecting a source project to deploying my customized website w
   </p>
 
 <h2>Screenshots</h2>
-<p>
+
 ![Home page](<Screenshots/Screenshot (115).png>)
-![Alt text](<Screenshots/Screenshot (115).png>)
-![Alt text](<Screenshots/Screenshot (117).png>)
-![Alt text](<Screenshots/Screenshot (118).png>)
-![Alt text](<Screenshots/Screenshot (119).png>)
-![Alt text](<Screenshots/Screenshot (120).png>)
-![Alt text](<Screenshots/Screenshot (121).png>)
-![Alt text](<Screenshots/Screenshot (129).png>)
-![Alt text](<Screenshots/Screenshot (129).png>)
-![Alt text](<Screenshots/Screenshot (130).png>)
-</p>
+![HomePage](<Screenshots/Screenshot (120).png>)
+![HomePage](<Screenshots/Screenshot (128).png>)
+![HomePage](<Screenshots/Screenshot (129).png>)
+![HomePage](<Screenshots/Screenshot (130).png>)
+![Footer](<Screenshots/Screenshot (132).png>)
+![Footer](<Screenshots/Screenshot (133).png>)
+![ContactUs](<Screenshots/Screenshot (134).png>)
+![OurEvents](<Screenshots/Screenshot (135).png>)
+![Our Courses](<Screenshots/Screenshot (136).png>)
+![AboutUs](<Screenshots/Screenshot (137).png>)
+
+
 
 <h2>What I've Learnt</h2>
   <p>Throughout the development of this project, I have gained valuable insights and learnt important lessons:</p>
