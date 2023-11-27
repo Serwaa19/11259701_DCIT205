@@ -60,7 +60,7 @@ The journey from selecting a source project to deploying my customized website w
   </p>
 
   <h2>Screenshots</h2>
-![HomePage](https://github.com/Serwaa19/11259701_DCIT205/blob/main/Screenshot%20(115).png)
+![HomePage](Screenshot (116).png)
 
 
   <h2>What I've Learnt</h2>
