@@ -71,6 +71,7 @@ The journey from selecting a source project to deploying my customized website w
 ![HomePage](<Screenshots/Screenshot (130).png>)
 ![Footer](<Screenshots/Screenshot (132).png>)
 ![Footer](<Screenshots/Screenshot (133).png>)
+![Staff](<Screenshots/Screenshot (138).png>)
 ![ContactUs](<Screenshots/Screenshot (134).png>)
 ![OurEvents](<Screenshots/Screenshot (135).png>)
 ![Our Courses](<Screenshots/Screenshot (136).png>)
